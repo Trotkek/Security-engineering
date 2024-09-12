@@ -1,2 +1,2 @@
 # Security-engineering
-EExcercies for security course at Uni Oulu
+Excercies for security course at Uni Oulu
